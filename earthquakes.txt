@@ -1,0 +1,94 @@
+location:	The 1906 San Francisco Earthquaketime:	1906-04-18 13:12:26	depth:	11.7 km	mag:	7.9
+location:	Nevadatime:	1915-10-03 06:53:21	depth:	10 km	mag:	6.8
+location:	Southern Californiatime:	1918-04-21 22:32:29	depth:	10 km	mag:	6.7
+location:	Sonora, Mexicotime:	1918-05-23 11:57:40	depth:	10 km	mag:	6.8
+location:	offshore Northern Californiatime:	1918-07-15 00:23:13	depth:	15 km	mag:	6.4
+location:	Greater Los Angeles area, Californiatime:	1922-03-10 11:21:04	depth:	10 km	mag:	6.5
+location:	Gulf of Californiatime:	1923-08-28 23:15:13	depth:	10 km	mag:	6.5
+location:	St. Lawrence Valley region, Quebec, Canadatime:	1925-03-01 02:19:18	depth:	15 km	mag:	6.3
+location:	western Montanatime:	1925-06-28 01:21:12	depth:	15 km	mag:	6.9
+location:	14km SSE of Isla Vista, CAtime:	1925-06-29 14:42:16	depth:	10 km	mag:	6.82
+location:	offshore Central Californiatime:	1926-10-22 13:35:27	depth:	10 km	mag:	6.3
+location:	offshore Central Californiatime:	1927-11-04 13:51:03	depth:	10 km	mag:	6.9
+location:	Chihuahua, Mexicotime:	1928-11-01 04:12:54	depth:	10 km	mag:	6.4
+location:	Gulf of Californiatime:	1931-01-17 02:50:21	depth:	10 km	mag:	6.7
+location:	Texas-Chihuahua border regiontime:	1931-08-16 11:40:25	depth:	10 km	mag:	6.5
+location:	Northern Californiatime:	1932-06-06 08:44:26	depth:	15 km	mag:	6.4
+location:	Baja California, Mexicotime:	1932-07-07 16:15:55	depth:	10 km	mag:	6.8
+location:	Gulf of Californiatime:	1932-07-12 19:24:11	depth:	10 km	mag:	6.7
+location:	Nevadatime:	1932-12-21 06:10:10	depth:	10 km	mag:	6.8
+location:	Long Beach, California Earthquaketime:	1933-03-11 01:54:09	depth:	6 km	mag:	6.4
+location:	Nevadatime:	1934-02-09 09:20:28	depth:	10 km	mag:	6.5
+location:	Utahtime:	1934-03-12 15:05:41	depth:	10 km	mag:	6.5
+location:	24km SSE of Estacion Coahuila, B.C., MXtime:	1934-12-30 13:52:02	depth:	6 km	mag:	6.33
+location:	5km S of Alberto Oviedo Mota, B.C., MXtime:	1934-12-31 18:45:43	depth:	6 km	mag:	6.42
+location:	Baja California, Mexicotime:	1939-05-02 13:14:54	depth:	10 km	mag:	7
+location:	4km N of Holtville, CAtime:	1940-05-19 04:36:40	depth:	6 km	mag:	6.9
+location:	17km WSW of Westmorland, CAtime:	1942-10-21 16:22:11	depth:	6 km	mag:	6.6
+location:	Gulf of Californiatime:	1945-06-27 13:08:24	depth:	10 km	mag:	6.7
+location:	13km WNW of Inyokern, CAtime:	1946-03-15 13:49:37	depth:	6 km	mag:	6.3
+location:	34km SSE of Fort Irwin, CAtime:	1947-04-10 15:58:05	depth:	6 km	mag:	6.5
+location:	Puget Sound region, Washingtontime:	1949-04-13 19:55:44	depth:	50 km	mag:	6.7
+location:	Gulf of Californiatime:	1949-11-20 07:09:53	depth:	10 km	mag:	6.8
+location:	6km WNW of Grapevine, CAtime:	1952-07-21 11:52:14	depth:	6 km	mag:	7.5
+location:	Gulf of Californiatime:	1952-11-07 20:55:05	depth:	15 km	mag:	6.3
+location:	12km W of Salton City, CAtime:	1954-03-19 09:54:27	depth:	6 km	mag:	6.4
+location:	Sonora, Mexicotime:	1954-04-29 10:49:32	depth:	10 km	mag:	6.6
+location:	Baja California, Mexicotime:	1954-04-29 11:34:39	depth:	10 km	mag:	7.2
+location:	Baja California Sur, Mexicotime:	1954-05-05 13:09:53	depth:	10 km	mag:	6.4
+location:	Nevadatime:	1954-08-24 05:51:35	depth:	15 km	mag:	6.5
+location:	offshore Baja California, Mexicotime:	1954-10-17 22:57:23	depth:	15 km	mag:	6.4
+location:	Nevadatime:	1954-12-16 11:07:17	depth:	10 km	mag:	7.1
+location:	Nevadatime:	1954-12-16 11:11:35	depth:	15 km	mag:	6.6
+location:	Northern Californiatime:	1954-12-21 19:56:29	depth:	15 km	mag:	6.6
+location:	Gulf of Californiatime:	1955-04-05 15:09:27	depth:	15 km	mag:	6.5
+location:	34km ENE of Maneadero, B.C., MXtime:	1956-02-09 14:32:41	depth:	6 km	mag:	6.8
+location:	129km SE of Maneadero, B.C., MXtime:	1956-02-14 18:33:28	depth:	6 km	mag:	6.43
+location:	Baja California, Mexicotime:	1956-02-15 01:20:42	depth:	15 km	mag:	6.3
+location:	Gulf of Californiatime:	1958-04-12 11:47:06	depth:	15 km	mag:	6.3
+location:	Hebgen Lake, Wyoming Earthquaketime:	1959-08-18 06:37:20	depth:	10 km	mag:	7.2
+location:	Yellowstone National Park, Wyomingtime:	1959-08-18 15:26:10	depth:	10 km	mag:	6.3
+location:	Baja California, Mexicotime:	1963-11-18 14:38:29	depth:	15 km	mag:	6.4
+location:	Gulf of Californiatime:	1964-07-05 19:07:59	depth:	15 km	mag:	6.3
+location:	Gulf of Californiatime:	1964-07-06 02:14:36	depth:	15 km	mag:	6.5
+location:	Seattle-Tacoma urban area, Washingtontime:	1965-04-29 15:28:45	depth:	64.7 km	mag:	6.7
+location:	173km SE of Estacion Coahuila, B.C., MXtime:	1966-08-07 17:36:10	depth:	6 km	mag:	6.35
+location:	5km NNE of Ocotillo Wells, CAtime:	1968-04-09 02:28:58	depth:	10 km	mag:	6.6
+location:	Gulf of Californiatime:	1969-08-17 20:13:08	depth:	15 km	mag:	6.5
+location:	Gulf of Californiatime:	1969-08-17 20:14:59	depth:	15 km	mag:	6.7
+location:	10km SSW of Agua Dulce, CAtime:	1971-02-09 14:00:41	depth:	8.95 km	mag:	6.6
+location:	Gulf of Californiatime:	1971-09-30 08:18:00	depth:	15 km	mag:	6.5
+location:	Gulf of Californiatime:	1974-05-31 14:04:59	depth:	33 km	mag:	6.3
+location:	Baja California, Mexicotime:	1975-07-08 09:37:27	depth:	33 km	mag:	6.5
+location:	offshore Northern Californiatime:	1976-11-26 11:19:32	depth:	41.78 km	mag:	6.3
+location:	10km E of Mexicali, B.C., MXtime:	1979-10-15 23:16:53	depth:	15 km	mag:	6.4
+location:	5km SE of Alberto Oviedo Mota, B.C., MXtime:	1980-06-09 03:28:19	depth:	6 km	mag:	6.3
+location:	offshore Northern Californiatime:	1980-11-08 10:27:34	depth:	19 km	mag:	7.2
+location:	Central Californiatime:	1983-05-02 23:42:38	depth:	9.578 km	mag:	6.7
+location:	southern Idahotime:	1983-10-28 14:06:06	depth:	10 km	mag:	6.9
+location:	Central Californiatime:	1986-07-21 14:42:26	depth:	8.804 km	mag:	6.4
+location:	22km W of Westmorland, CAtime:	1987-11-24 13:15:56	depth:	11.181 km	mag:	6.6
+location:	Gulf of Californiatime:	1988-06-18 22:49:42	depth:	10 km	mag:	6.7
+location:	Loma Prieta, California Earthquaketime:	1989-10-18 00:04:15	depth:	17.214 km	mag:	6.9
+location:	20km SSW of Rio Dell, Californiatime:	1992-04-25 18:06:05	depth:	9.856 km	mag:	7.2
+location:	offshore Northern Californiatime:	1992-04-26 07:41:40	depth:	18.824 km	mag:	6.45
+location:	offshore Northern Californiatime:	1992-04-26 11:18:25	depth:	21.713 km	mag:	6.57
+location:	Landers, California Earthquaketime:	1992-06-28 11:57:34	depth:	-0.097 km	mag:	7.3
+location:	7km SSE of Big Bear City, CAtime:	1992-06-28 15:05:30	depth:	3.634 km	mag:	6.3
+location:	1km NNW of Reseda, CAtime:	1994-01-17 12:30:55	depth:	18.202 km	mag:	6.7
+location:	Gulf of Californiatime:	1995-08-28 10:46:12	depth:	12.2 km	mag:	6.6
+location:	16km SW of Ludlow, CAtime:	1999-10-16 09:46:44	depth:	13.73 km	mag:	7.1
+location:	Puget Sound region, Washingtontime:	2001-02-28 18:54:32	depth:	51.798 km	mag:	6.8
+location:	Gulf of Californiatime:	2003-03-12 23:41:32	depth:	10 km	mag:	6.4
+location:	Central Californiatime:	2003-12-22 19:15:56	depth:	8.382 km	mag:	6.5
+location:	Gulf of Californiatime:	2006-01-04 08:32:32	depth:	14 km	mag:	6.6
+location:	Sonora, Mexicotime:	2009-08-03 17:59:56	depth:	10 km	mag:	6.9
+location:	offshore Northern Californiatime:	2010-01-10 00:27:39	depth:	28.737 km	mag:	6.5
+location:	12km SW of Delta, B.C., MXtime:	2010-04-04 22:40:42	depth:	9.987 km	mag:	7.2
+location:	Gulf of Californiatime:	2010-10-21 17:53:13	depth:	13 km	mag:	6.7
+location:	Baja California, Mexicotime:	2012-04-12 07:15:48	depth:	13 km	mag:	7
+location:	Baja California Sur, Mexicotime:	2012-09-25 23:45:24	depth:	10 km	mag:	6.3
+location:	off the west coast of Baja Californiatime:	2012-12-14 10:36:01	depth:	13 km	mag:	6.3
+location:	99km SW of Etchoropo, Mexicotime:	2013-10-19 17:54:54	depth:	9.45 km	mag:	6.6
+location:	95km SW of Topolobampo, Mexicotime:	2015-09-13 08:14:08	depth:	10 km	mag:	6.7
+location:	78km NNE of Loreto, Mexicotime:	2018-01-19 16:17:44	depth:	10 km	mag:	6.3
